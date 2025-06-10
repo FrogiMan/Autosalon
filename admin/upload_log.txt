@@ -1,0 +1,60 @@
+Upload attempt: Array
+(
+    [name] => audi_a4.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\Users\safro\Downloads\OpenServer\userdata\php_upload\php6A04.tmp
+    [error] => 0
+    [size] => 1602864
+)
+
+File moved to: Uploads/img_6847742d1d976.jpg
+Upload attempt: Array
+(
+    [name] => genesis_gv70.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\Users\safro\Downloads\OpenServer\userdata\php_upload\phpC004.tmp
+    [error] => 0
+    [size] => 10983
+)
+
+File moved to: Uploads/img_684774431d9c9.jpg
+Upload attempt: Array
+(
+    [name] => honda_civic.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\Users\safro\Downloads\OpenServer\userdata\php_upload\phpEEF5.tmp
+    [error] => 0
+    [size] => 512582
+)
+
+File moved to: Uploads/img_6847744f22f66.jpg
+Upload attempt: Array
+(
+    [name] => honda_civic.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\Users\safro\Downloads\OpenServer\userdata\php_upload\php4530.tmp
+    [error] => 0
+    [size] => 512582
+)
+
+File moved to: Uploads/img_68477a8a3f17a.jpg
+Upload attempt: Array
+(
+    [name] => dodge_durango.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\Users\safro\Downloads\OpenServer\userdata\php_upload\php6422.tmp
+    [error] => 0
+    [size] => 9136
+)
+
+File moved to: Uploads/img_68477a91f41b6.jpg
+Upload attempt: Array
+(
+    [name] => bmw_1series_2021.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\Users\safro\Downloads\OpenServer\userdata\php_upload\phpCA30.tmp
+    [error] => 0
+    [size] => 9454
+)
+
+File moved to: Uploads/img_68477aac1cd5c.jpg
